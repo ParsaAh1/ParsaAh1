@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParsaAh1
+- 👋 Hi, I’m ParsaAh
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#
 - 📫 My Email: parsafull@gmail.com
